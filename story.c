@@ -28,6 +28,9 @@ int main( void )
 	wfbc77Sentence1();
 	wfbc77Sentence2();
 
+	kllxvd();
+	kllxvd2();
+
 	bjt2p3_sentence1();
 	bjt2p3_sentence2();
 

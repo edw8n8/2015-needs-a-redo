@@ -20,5 +20,8 @@ void blhtkd_sentence2();
 int wfbc77Sentence1();
 int wfbc77Sentence2();
 
+int kllxvd();
+int kllxvd2();
+
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
