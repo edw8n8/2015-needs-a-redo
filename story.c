@@ -178,6 +178,9 @@ int main( void )
 	cjbq4f_first();
 	bmwr84_2();
 
+	wjbz82_sentence1(); 
+	wjbz82_sentence2(); 
+
     ddbmf_1();
     ddbmf_2();
     xcqrf1();

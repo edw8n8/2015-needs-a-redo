@@ -128,7 +128,11 @@ story: story.o \
 	rbync.o \
 	cflzr3.o \
 	cmm9r2.o \
+<<<<<<< HEAD
 	scn3d.o	
+=======
+	wjbz82.o	
+>>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
 	#	bks437.o \jmlmdf.o \ads6g7.o \
 
 	
@@ -304,5 +308,10 @@ cmm9r2.o: sentences/cmm9r2.c
 		$(CC) -c $<
 cflzr3.o: sentences/cflzr3.c
 	$(CC) -c $<
+<<<<<<< HEAD
 scn3d.o: sentences/scn3d.c
 	$(CC) -c $<
+=======
+wjbz82.o: sentences/wjbz82.c
+	$(CC) -c $<
+>>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7

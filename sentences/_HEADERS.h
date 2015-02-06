@@ -217,5 +217,10 @@ int cmm9r2_sentence2();
 void cflzr3_1();
 void cflzr3_2();
 
+<<<<<<< HEAD
 int scn3dSentence1();
 int scn3dSentence2();
+=======
+void wjbz82_sentence1(); 
+void wjbz82_sentence2(); 
+>>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
