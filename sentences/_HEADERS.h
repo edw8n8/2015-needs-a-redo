@@ -200,3 +200,6 @@ int eagcm8_sentence2();
 
 void edwzpd1();
 void edwzpd2();
+
+int mmhkwc1();
+int mmhkwc2();

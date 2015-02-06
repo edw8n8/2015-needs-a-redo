@@ -124,7 +124,11 @@ story: story.o \
 	xcqrf.o \
 	dpvx8.o \
 	eagcm8.o \
+<<<<<<< HEAD
 	edwzpd.o
+=======
+	mmhkwc.o  
+>>>>>>> 1d196fbd6dfee0ec49140907f16afa772058f523
 	$(CC) -o story $^
 
 
@@ -284,4 +288,6 @@ dpvx8.o: sentences/dpvx8.c
 eagcm8.o: sentences/eagcm8.c
 	$(CC) -c $<
 edwzpd.o: sentences/edwzpd.c
+	$(CC) -c $<
+mmhkwc.o: sentences/mmhkwc.c
 	$(CC) -c $<

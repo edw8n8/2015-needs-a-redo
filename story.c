@@ -193,7 +193,8 @@ int main( void )
     eagcm8_sentence1();
     eagcm8_sentence2();
 
-
+	mmhkwc1();
+	mmhkwc2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
