@@ -201,3 +201,6 @@ int eagcm8_sentence2();
 int mmhkwc1();
 int mmhkwc2();
 
+int bks4371();
+int bks4372();
+
