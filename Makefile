@@ -124,11 +124,8 @@ story: story.o \
 	xcqrf.o \
 	dpvx8.o \
 	eagcm8.o \
-<<<<<<< HEAD
-	edwzpd.o
-=======
+	edwzpd.o \
 	mmhkwc.o  
->>>>>>> 1d196fbd6dfee0ec49140907f16afa772058f523
 	$(CC) -o story $^
 
 
