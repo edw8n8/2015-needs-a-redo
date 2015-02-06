@@ -206,6 +206,9 @@ int main( void )
 	
 	cflzr3_1();
 	cflzr3_2();
+	
+	scn3dSentence1();
+    scn3dSentence2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
