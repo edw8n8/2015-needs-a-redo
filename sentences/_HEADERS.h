@@ -198,3 +198,5 @@ int zarq6c_2();
 int eagcm8_sentence1();
 int eagcm8_sentence2();
 
+void edwzpd1();
+void edwzpd2();

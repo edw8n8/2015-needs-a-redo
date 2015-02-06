@@ -134,6 +134,8 @@ int main( void )
 	sts44b_s1();
 	sts44b_s2();
 	cjbq4f_second();
+	edwzpd1();
+	edwzpd2();
 	baotm4_2();
 
 	jn9qc_s1();
