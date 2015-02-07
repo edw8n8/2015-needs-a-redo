@@ -19,7 +19,8 @@ int main( void )
 	xdb57_1();
 
 	cmm9r2_sentence1();
-
+	
+	rlc5m8_Sentence1()
 	tehww4_s1();
 	tehww4_s2();
 	bgnqp4_s2();
@@ -43,7 +44,8 @@ int main( void )
 	mjir4d_sentence1();
 	pld9bc_2();
 //	bar5z6_sentence1();
-
+	
+	rlc5m8_Sentence2()	
 	wfbc77Sentence1();
 	wfbc77Sentence2();
 	djb8tc_1();
