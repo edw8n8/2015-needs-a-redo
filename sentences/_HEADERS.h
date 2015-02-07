@@ -93,3 +93,6 @@ int tps9tb_sentences2();
 
 int ifh2k6_sentence1();
 int ifh2k6_sentence2();
+
+void cflzr3_1();
+void cflzr3_2();

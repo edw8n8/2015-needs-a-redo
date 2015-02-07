@@ -100,6 +100,9 @@ int main( void )
 	ifh2k6_sentence1();
 	ifh2k6_sentence2();
 
+	cflzr3_1();
+	cflzr3_2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
