@@ -9,7 +9,7 @@ int cmm9r2_sentence1()
 
 int cmm9r2_sentence2()
 {
-s
+
   printf("\n Dumbledore!\n");
   return 1;
 }

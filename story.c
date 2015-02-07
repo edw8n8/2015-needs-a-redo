@@ -18,7 +18,7 @@ int main( void )
 	rcsc77First();
 	xdb57_1();
 
-	//cmm9r2_sentence1();
+	cmm9r2_sentence1();
 
 	tehww4_s1();
 	tehww4_s2();
@@ -167,7 +167,7 @@ int main( void )
     mlm6f4_s1();
     mlm6f4_s2();
 
-		//cmm9r2_sentence2();
+		cmm9r2_sentence2();
 
 	mcs526_sentence1();
 	mcs526_sentence2();
