@@ -55,6 +55,7 @@ cleanwin:
 
 story: story.o \
 	scottgs.o \
+	ads6g7.o \
 	apcvzb.o \
 	ylt5b.o \
 	bpbkt7.o \
@@ -140,6 +141,8 @@ story.o: story.c
 # -----------------------------------------------
 # Add an target of your object file, with your source as the dependency
 bpbkt7.o: sentences/bpbkt7.c
+	$(CC) -c $<
+ads6g7.o: sentences/ads6g7.c
 	$(CC) -c $<
 
 scottgs.o: sentences/scottgs.c

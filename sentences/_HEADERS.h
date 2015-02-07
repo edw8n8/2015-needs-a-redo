@@ -8,6 +8,9 @@ int scottgsSentence1();
 int apcvzbSentence1();
 int apcvzbSentence2();
 
+void ads6g7_sen1();
+void ads6g7_sen2();
+
 int amd2b7_1();
 int amd2b7_2();
 

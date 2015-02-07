@@ -87,6 +87,7 @@ int main( void )
 	hrggyf_s2();
 
 	vlb5b();
+    ads6g7_sen1();
 	vlb5b_second();
 
 //	vlb5b();
@@ -177,6 +178,7 @@ int main( void )
     xcqrf1();
     xcqrf2();
 	zarq6c_1();
+    ads6g7_sen2();
 	skhhdcsent2();
 	zarq6c_2();
 	rmixv8_sentence1();
