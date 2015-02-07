@@ -20,7 +20,7 @@ int main( void )
 
 	cmm9r2_sentence1();
 	
-	rlc5m8_Sentence1()
+	rlc5m8_Sentence1();
 	tehww4_s1();
 	tehww4_s2();
 	bgnqp4_s2();
@@ -45,7 +45,7 @@ int main( void )
 	pld9bc_2();
 //	bar5z6_sentence1();
 	
-	rlc5m8_Sentence2()	
+	rlc5m8_Sentence2();
 	wfbc77Sentence1();
 	wfbc77Sentence2();
 	djb8tc_1();
