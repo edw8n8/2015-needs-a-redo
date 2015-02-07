@@ -125,7 +125,8 @@ story: story.o \
 	dpvx8.o \
 	eagcm8.o \
 	mmhkwc.o \
-	bks437.o \
+#	bks437.o \
+	rbync.o \
 	$(CC) -o story $^
 
 
@@ -286,5 +287,7 @@ eagcm8.o: sentences/eagcm8.c
 	$(CC) -c $<
 mmhkwc.o: sentences/mmhkwc.c
 	$(CC) -c $<
-bks437.o: sentences/bks437.c
+#bks437.o: sentences/bks437.c
+#	$(CC) -c $<
+rbync.o: sentences/rbync.c
 	$(CC) -c $<
