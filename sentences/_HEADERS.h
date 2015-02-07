@@ -211,6 +211,8 @@ int bks4372();
 void jmlmdf1();
 void jmlmdf2();
 
+int cmm9r2_sentence1();
+int cmm9r2_sentence2();
+
 void cflzr3_1();
 void cflzr3_2();
-

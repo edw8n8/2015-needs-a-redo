@@ -128,7 +128,9 @@ story: story.o \
 	rbync.o \
 	cflzr3.o \
 	
-	#	bks437.o \cmm9r2.o \ads6g7.o \jmlmdf.o
+	#	bks437.o \jmlmdf.o \ads6g7.o \cmm9r2.o \
+
+	
 	$(CC) -o story $^
 
 
