@@ -129,6 +129,7 @@ story: story.o \
 #	bks437.o \
 	rbync.o \
 	jmlmdf.o
+	cmm9r2.o \
 	$(CC) -o story $^
 
 
@@ -157,10 +158,10 @@ apcvzb.o: sentences/apcvzb.c
 
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
-	
+
 acfr47.o: sentences/acfr47.c
 	$(CC) -c $<
-	
+
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
 
@@ -219,7 +220,7 @@ xltz6.o: sentences/xltz6.c
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 ps793.o: sentences/ps793.c
-	$(CC) -c $<	
+	$(CC) -c $<
 #makgkf.o: sentences/makgkf.c
 #	$(CC) -c $<
 tps9tb.o: sentences/tps9tb.c
@@ -297,3 +298,5 @@ rbync.o: sentences/rbync.c
 	$(CC) -c $<
 jmlmdf.o: sentences/jmlmdf.c
 	$(CC) -c $<
+cmm9r2.o: sentences/cmm9r2.c
+		$(CC) -c $<

@@ -12,18 +12,21 @@ int main( void )
 // Add your sentence.
 // Don't forget to update the header file.
 	bmwr84();
-   	racn88_s2(); 
+   	racn88_s2();
 	scottgsSentence1();
 	iphvg5_sentence1();
 	rcsc77First();
 	xdb57_1();
+
+	cmm9r2_sentence1();
+
 	tehww4_s1();
 	tehww4_s2();
 	bgnqp4_s2();
 	twn346_s1();
   jpvc4_sentence1();
   jpvc4_sentence2();
-  
+
   acfr47_Sentence1();
   acfr47_Sentence2();
 
@@ -52,37 +55,37 @@ int main( void )
 	ahpb75_sentence2();
 	bjt2p3_sentence2();
 //	bar5z6_sentence2();
-	
+
 	kpm8v5sent2();
 
 	amd2b7_1();
 	amd2b7_2();
-	
-    
+
+
 	dse2pd_1();
 	dse2pd_2();
-    
+
     qltf8();
     qltf8_next();
-	
+
 	//makgkf_Sen1();
 
 	wangso_1();
 	wangso_2();
-	
+
 	jebd4f_Sentence1();
 	jebd4f_Sentence2();
-	
+
 	dc4g2_1();
 	dc4g2_2();
-	
+
 	//makgkf_Sen2();
 
 	aap455_Sentence1();
 	aap455_Sentence2();
-	
+
 	iphvg5_sentence2();
-	
+
 	hrggyf_s1();
 	hrggyf_s2();
 
@@ -108,7 +111,7 @@ int main( void )
     kjmd54SentenceTwo();
 	masyv6_s2();
 
-	
+
 	xltz6_1();
 	xltz6_2();
 
@@ -139,7 +142,7 @@ int main( void )
 
 	jn9qc_s1();
 	jn9qc_s2();
-	
+
 	amr6d5_1();
 	mabrm9_sent1();
 	mabrm9_sent2();
@@ -151,7 +154,7 @@ int main( void )
 	zdc9pd_1();
 	skhhdcsent1();
 	zdc9pd_2();
-	
+
 	djb8tc_2();
 
 	pkbcn6_s1();
@@ -163,6 +166,7 @@ int main( void )
     mlm6f4_s1();
     mlm6f4_s2();
 
+		cmm9r2_sentence2();
 
 	mcs526_sentence1();
 	mcs526_sentence2();
@@ -172,7 +176,7 @@ int main( void )
 
 	cjbq4f_first();
 	bmwr84_2();
-    
+
     ddbmf_1();
     ddbmf_2();
     xcqrf1();
@@ -186,7 +190,7 @@ int main( void )
         apcvzbSentence1();
         dpvx8First();
         apcvzbSentence2();
-    
+
     ska6f8_Sentence1();
     ska6f8_Sentence2();
 
@@ -204,6 +208,3 @@ int main( void )
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-
