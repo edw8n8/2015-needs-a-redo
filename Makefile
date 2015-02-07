@@ -129,6 +129,7 @@ story: story.o \
 	cflzr3.o \
 	cmm9r2.o \
 	mdht27.o \
+	dmz6fd.o \
 	#	bks437.o \jmlmdf.o \ads6g7.o \ wjbz82.o \
 
 	
@@ -229,6 +230,9 @@ tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
 	$(CC) -c $<
+dmz6fd.o: sentences/dmz6fd.c
+	$(CC) -c $<
+
 aapcnc.o: sentences/aapcnc.c
 	$(CC) -c $<
 baotm4.o: sentences/baotm4.c

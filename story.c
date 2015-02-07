@@ -207,6 +207,8 @@ int main( void )
 	mmhkwc2();
 
 	maiya2();
+	dmz6fd_sentence1();
+	dmz6fd_sentence2();
 
 	//jmlmdf1();
 	//jmlmdf2();

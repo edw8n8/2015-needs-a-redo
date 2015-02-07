@@ -223,3 +223,6 @@ void wjbz82_sentence2();
 void maiya1();
 void maiya2();
 
+void dmz6fd_sentence1();
+void dmz6fd_sentence2();
+
