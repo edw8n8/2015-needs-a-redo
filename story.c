@@ -56,6 +56,8 @@ int main( void )
 	bjt2p3_sentence2();
 //	bar5z6_sentence2();
 
+	maiya1();
+
 	kpm8v5sent2();
 
 	amd2b7_1();
@@ -178,8 +180,8 @@ int main( void )
 	cjbq4f_first();
 	bmwr84_2();
 
-	wjbz82_sentence1(); 
-	wjbz82_sentence2(); 
+//	wjbz82_sentence1(); 
+//	wjbz82_sentence2(); 
 
     ddbmf_1();
     ddbmf_2();
@@ -203,6 +205,8 @@ int main( void )
 
 	mmhkwc1();
 	mmhkwc2();
+
+	maiya2();
 
 	//jmlmdf1();
 	//jmlmdf2();

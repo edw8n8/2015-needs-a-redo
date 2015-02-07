@@ -219,3 +219,7 @@ void cflzr3_2();
 
 void wjbz82_sentence1(); 
 void wjbz82_sentence2(); 
+
+void maiya1();
+void maiya2();
+
