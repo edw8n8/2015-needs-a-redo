@@ -19,7 +19,8 @@ int main( void )
 	xdb57_1();
 
 	cmm9r2_sentence1();
-
+	
+	rlc5m8_Sentence1()
 	tehww4_s1();
 	tehww4_s2();
 	bgnqp4_s2();
@@ -43,7 +44,8 @@ int main( void )
 	mjir4d_sentence1();
 	pld9bc_2();
 //	bar5z6_sentence1();
-
+	
+	rlc5m8_Sentence2()	
 	wfbc77Sentence1();
 	wfbc77Sentence2();
 	djb8tc_1();
@@ -55,6 +57,8 @@ int main( void )
 	ahpb75_sentence2();
 	bjt2p3_sentence2();
 //	bar5z6_sentence2();
+
+	maiya1();
 
 	kpm8v5sent2();
 
@@ -178,8 +182,8 @@ int main( void )
 	cjbq4f_first();
 	bmwr84_2();
 
-	wjbz82_sentence1(); 
-	wjbz82_sentence2(); 
+//	wjbz82_sentence1(); 
+//	wjbz82_sentence2(); 
 
     ddbmf_1();
     ddbmf_2();
@@ -203,6 +207,10 @@ int main( void )
 
 	mmhkwc1();
 	mmhkwc2();
+
+	maiya2();
+	dmz6fd_sentence1();
+	dmz6fd_sentence2();
 
 	//jmlmdf1();
 	//jmlmdf2();

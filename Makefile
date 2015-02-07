@@ -129,11 +129,17 @@ story: story.o \
 	cflzr3.o \
 	cmm9r2.o \
 <<<<<<< HEAD
+<<<<<<< HEAD
 	scn3d.o	
 =======
 	wjbz82.o	
 >>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
 	#	bks437.o \jmlmdf.o \ads6g7.o \
+=======
+	mdht27.o \
+	dmz6fd.o \
+	#	bks437.o \jmlmdf.o \ads6g7.o \ wjbz82.o \
+>>>>>>> 9af4341d8de8e32bcdd1bd309a00d05f3b7e9324
 
 	
 	$(CC) -o story $^
@@ -233,6 +239,9 @@ tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
 	$(CC) -c $<
+dmz6fd.o: sentences/dmz6fd.c
+	$(CC) -c $<
+
 aapcnc.o: sentences/aapcnc.c
 	$(CC) -c $<
 baotm4.o: sentences/baotm4.c
@@ -314,4 +323,9 @@ scn3d.o: sentences/scn3d.c
 =======
 wjbz82.o: sentences/wjbz82.c
 	$(CC) -c $<
+<<<<<<< HEAD
 >>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
+=======
+mdht27.o: sentences/mdht27.c
+	$(CC) -c $<
+>>>>>>> 9af4341d8de8e32bcdd1bd309a00d05f3b7e9324

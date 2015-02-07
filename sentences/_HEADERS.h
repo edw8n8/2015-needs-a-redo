@@ -5,6 +5,9 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 int scottgsSentence1();
 
+int rlc5m8_Sentence1();
+int rlc5m8_Sentence2();
+
 int apcvzbSentence1();
 int apcvzbSentence2();
 
@@ -223,4 +226,14 @@ int scn3dSentence2();
 =======
 void wjbz82_sentence1(); 
 void wjbz82_sentence2(); 
+<<<<<<< HEAD
 >>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
+=======
+
+void maiya1();
+void maiya2();
+
+void dmz6fd_sentence1();
+void dmz6fd_sentence2();
+
+>>>>>>> 9af4341d8de8e32bcdd1bd309a00d05f3b7e9324
