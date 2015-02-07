@@ -216,3 +216,6 @@ int cmm9r2_sentence2();
 
 void cflzr3_1();
 void cflzr3_2();
+
+void wjbz82_sentence1(); 
+void wjbz82_sentence2(); 

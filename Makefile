@@ -127,7 +127,8 @@ story: story.o \
 	mmhkwc.o \
 	rbync.o \
 	cflzr3.o \
-	cmm9r2.o 	
+	cmm9r2.o \
+	wjbz82.o	
 	#	bks437.o \jmlmdf.o \ads6g7.o \
 
 	
@@ -302,4 +303,6 @@ jmlmdf.o: sentences/jmlmdf.c
 cmm9r2.o: sentences/cmm9r2.c
 		$(CC) -c $<
 cflzr3.o: sentences/cflzr3.c
+	$(CC) -c $<
+wjbz82.o: sentences/wjbz82.c
 	$(CC) -c $<
