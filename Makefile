@@ -306,9 +306,9 @@ rbync.o: sentences/rbync.c
 jmlmdf.o: sentences/jmlmdf.c
 	$(CC) -c $<
 cmm9r2.o: sentences/cmm9r2.c
-		$(CC) -c $<
+	$(CC) -c $<
 rlc5m8.o: sentences/rlc5m8.c
-		$(CC) -c $<
+	$(CC) -c $<
 cflzr3.o: sentences/cflzr3.c
 	$(CC) -c $<
 wjbz82.o: sentences/wjbz82.c
