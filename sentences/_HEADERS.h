@@ -19,7 +19,8 @@ int ylt5b_sentence2();
 
 int tehww4_s1();
 int tehww4_s2();
-
+int rbync_s1();
+int rbync_s2();
 void jpvc4_sentence1();
 void jpvc4_sentence2();
 
