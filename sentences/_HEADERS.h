@@ -208,3 +208,5 @@ int mmhkwc2();
 int bks4371();
 int bks4372();
 
+void jmlmdf1();
+void jmlmdf2();

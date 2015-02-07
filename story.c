@@ -196,6 +196,9 @@ int main( void )
 	mmhkwc1();
 	mmhkwc2();
 
+	jmlmdf1();
+	jmlmdf2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

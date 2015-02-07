@@ -128,6 +128,7 @@ story: story.o \
 	mmhkwc.o \
 #	bks437.o \
 	rbync.o \
+	jmlmdf.o
 	$(CC) -o story $^
 
 
@@ -293,4 +294,6 @@ mmhkwc.o: sentences/mmhkwc.c
 #bks437.o: sentences/bks437.c
 #	$(CC) -c $<
 rbync.o: sentences/rbync.c
+	$(CC) -c $<
+jmlmdf.o: sentences/jmlmdf.c
 	$(CC) -c $<
