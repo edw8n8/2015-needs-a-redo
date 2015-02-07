@@ -220,20 +220,14 @@ int cmm9r2_sentence2();
 void cflzr3_1();
 void cflzr3_2();
 
-<<<<<<< HEAD
 int scn3dSentence1();
 int scn3dSentence2();
-=======
+
 void wjbz82_sentence1(); 
 void wjbz82_sentence2(); 
-<<<<<<< HEAD
->>>>>>> cfc8594d747fcbf1736e3c5abf3f541e77145dc7
-=======
 
 void maiya1();
 void maiya2();
 
 void dmz6fd_sentence1();
 void dmz6fd_sentence2();
-
->>>>>>> 9af4341d8de8e32bcdd1bd309a00d05f3b7e9324

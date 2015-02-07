@@ -131,6 +131,7 @@ story: story.o \
 	rlc5m8.o \
 	mdht27.o \
 	dmz6fd.o \
+	scn3d.o \
 	#	bks437.o \jmlmdf.o \ads6g7.o \ wjbz82.o \
 
 	
@@ -159,7 +160,8 @@ tehww4.o: sentences/tehww4.c
 
 apcvzb.o: sentences/apcvzb.c
 	$(CC) -c $<
-
+scn3d.o: sentences/scn3d.c
+	$(CC) -c $<
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
 
